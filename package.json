@@ -1,0 +1,23 @@
+{
+  "name": "michaellegere.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaellegere/react-sass-website.git"
+  },
+  "author": "Michael Legere",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaellegere/react-sass-website/issues"
+  },
+  "homepage": "https://github.com/michaellegere/react-sass-website#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.3",
+    "jquery": "^3.5.1"
+  }
+}
